@@ -30,4 +30,4 @@ This README was generated with my rGen CLI app!
 ## Licensing Info:
 MIT
 
-![Screenshot of the App](rGenSCRN.png)
+![Screenshot of the App](rGenSCRN.bmp)
