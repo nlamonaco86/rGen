@@ -1,0 +1,20 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Title     Some text here: address     username     email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "inquirer": "^6.3.1",
+    "moment": "^2.27.0",
+    "weatherman": "0.0.3"
+  },
+  "devDependencies": {}
+}
