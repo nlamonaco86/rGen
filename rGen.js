@@ -60,34 +60,34 @@ inquirer.prompt([
 ]).then(function (response) {
 //use template literal to layout and write the README
     fs.writeFile("README.md",
-    `# ${response.title}
+`# ${response.title}
 
-    ## Description:
-    ${response.description}
+## Description:
+${response.description}
 
-    ## Installation Instructions:
-    ${response.install}
+## Installation Instructions:
+${response.install}
 
-    ## Usage Info:
-    ${response.usage}
+## Usage Info:
+${response.usage}
 
-    ## Contributing:
-    ${response.contrib}
+## Contributing:
+${response.contrib}
 
-    ## Testing Instructions:
-    ${response.test}
+## Testing Instructions:
+${response.test}
 
-    ## Contact Me!
-    Github Repo: ${response.repo}
+## Contact Me!
+Github Repo: ${response.repo}
 
-    View my Github at github.com/${response.username}/
+View my Github at github.com/${response.username}/
 
-    Have a question? E-mail me at ${response.email}
+Have a question? E-mail me at ${response.email}
 
-    This README was generated with my rGen CLI app!
+This README was generated with my rGen CLI app!
     
-    ## Licensing Info:
-    ${response.license}`,
+## Licensing Info:
+${response.license}`,
     function (err) {
         if (err) return console.log(err);
         console.log("success");
