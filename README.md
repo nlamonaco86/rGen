@@ -19,6 +19,8 @@ There are no test files for this application, though suggestions are always welc
 ## Contact Me!
 Github Repo: github.com/nlamonaco86/rGen
 
+Video Demo: https://github.com/nlamonaco86/rGen/raw/master/rGenDEMO.avi
+
 View my Github at github.com/nlamonaco86/
 
 Have a question? E-mail me at nlamonaco86@gmail.com
