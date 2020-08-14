@@ -17,11 +17,11 @@ Nicholas La Monaco 8/14/2020
 There are no test files for this application, though suggestions are always welcome
 
 ## Contact Me!
-Github Repo: github.com/nlamonaco86/rGen
+Github Repo: http://www.github.com/nlamonaco86/rGen
 
 Video Demo: https://github.com/nlamonaco86/rGen/raw/master/rGenDEMO.avi
 
-View my Github at github.com/nlamonaco86/
+View my Github at http://www.github.com/nlamonaco86
 
 Have a question? E-mail me at nlamonaco86@gmail.com
 
